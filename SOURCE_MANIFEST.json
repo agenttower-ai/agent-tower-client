@@ -2,7 +2,7 @@
   "files": [
     {
       "path": ".flutter-version",
-      "sha256": "7c58a49ca2dbd179813929d25f310facc26f7d6554de9fdfe7a286b6a67e380c"
+      "sha256": "eda0b6dfe4b88b8b2e5d2b111019cb0ca24e3d48df1f3c0e5f12282b94648ef1"
     },
     {
       "path": ".github/workflows/release.yml",
@@ -10,15 +10,15 @@
     },
     {
       "path": ".gitignore",
-      "sha256": "f203e225bdf78002b7d48da59fbecdbc2c0ed276b48f8e9c322048ff5765ac79"
+      "sha256": "f4e5a57c8df1670f02de41392ef90b0a754267daaaee6dc893546c723eb0a711"
     },
     {
       "path": "CONTRIBUTING.md",
-      "sha256": "1751e3e4846a3cbe63af8ce9db6657c6fac82a71abf9f67d296d39ffffa3a755"
+      "sha256": "4551cebf5fc5c0cfd4dde5a664bf153dc4088f01acd3c81b5d7b8a80b123e8ad"
     },
     {
       "path": "LICENSE",
-      "sha256": "b4b0ea5fcb21b191a249b91a5d7df50e425cac230649e179a2beb3e01644a639"
+      "sha256": "1dbc9f206f32d15d5eb38365e2c7f239febc20cf9b2474ab7f32e2e4cd54a7ae"
     },
     {
       "path": "README.en.md",
@@ -30,51 +30,51 @@
     },
     {
       "path": "SECURITY.md",
-      "sha256": "36bf197e7aa36080f73b72d72c9d3280c8f85d6e7dafa2a9a8c7846db2480634"
+      "sha256": "b77d5b03a78ba43a0418abd30fc234b924a472ed202442f8bfe01271236ed478"
     },
     {
       "path": "THIRD_PARTY.md",
-      "sha256": "fcdc8d67356434df42cfa05c809bc15a15f874ba72eb62937649ea9ba1527f60"
+      "sha256": "28572eea91605e03dbfa71f2954a537c2533433a142c2309841baf257dd8e2c6"
     },
     {
       "path": "analysis_options.yaml",
-      "sha256": "a5ca58523ff45ff62d3301aa33b935d53f4fdd218ed9d5b02055f36f7b6a842d"
+      "sha256": "2dd9d5f67fd748104ffa64b95ff95cba90c69d94181db2e4c386f869356023a1"
     },
     {
       "path": "android/.gitignore",
-      "sha256": "5604039028ce53cc0c9cb9a73b755ec94212742cb751c38bda3bea645e7545bb"
+      "sha256": "4b5a480e56e119de4d695821df2db34bf9a2da19ce0aef34aed6fabc91718606"
     },
     {
       "path": "android/app/build.gradle.kts",
-      "sha256": "b12b08a2e22362aed2ea0f7ebb72188a95720364cee25bfaca7b690fe8eb4b5c"
+      "sha256": "3f8d377d425ab1923d66d3c7d1f3117b7a6942966497a353945686d75d29f5c1"
     },
     {
       "path": "android/app/src/debug/AndroidManifest.xml",
-      "sha256": "b6be07e260317cce874abfe03cac6e4fdf10a316600ee1fac3b798dfc2f98663"
+      "sha256": "80da328ff5396c9077285575c1f5f5f3cef94ca29fefde74a2a8f9d1863344e8"
     },
     {
       "path": "android/app/src/debug/res/xml/debug_network_security.xml",
-      "sha256": "df6d83ad7247b9ea8367b54796cb90683a0d935770e30e5dbbd4d95c94f958cd"
+      "sha256": "a41d6cc5c5c0ae677f66f15fbbe818502d8a7ab305d275fbaab39ae883df32ad"
     },
     {
       "path": "android/app/src/main/AndroidManifest.xml",
-      "sha256": "9ff8d21855f6da16de22646187054cf9d0b343a9c8a91e18412cf2180e492a04"
+      "sha256": "22106fdeddc6ba7c948f5aee65e3e7a4acbf55769c7adafd148edaf85b5c2342"
     },
     {
       "path": "android/app/src/main/kotlin/com/agenttower/agenttower/MainActivity.kt",
-      "sha256": "96aa9ccc86ad620ba5829e20873cda226ea4bb2a00a0f594a6c331b218b9b4a0"
+      "sha256": "89aeac0cbb6fe6035cae7243d5773472c3fe66a220f58b0fab0ab0d835643c0f"
     },
     {
       "path": "android/app/src/main/res/drawable-v21/launch_background.xml",
-      "sha256": "dca312ec77de83e43ef70a825c299b51451247286c29167d62f19165750b8793"
+      "sha256": "7ca6d5cec2169c5a98661a119db23a6f3399c8fef2256ff04f3a642831282478"
     },
     {
       "path": "android/app/src/main/res/drawable/agenttower_launcher.xml",
-      "sha256": "8443ff40c70b31eaee2555a7bac82345198506516ac91658ee7b1ff9f389f5e4"
+      "sha256": "987584c24bab967deec828e9732c06a8b67645edfdbe8fbc56a82bee876b47ff"
     },
     {
       "path": "android/app/src/main/res/drawable/launch_background.xml",
-      "sha256": "2df60e2cfbee873ce2858088cf003e6b93498f2f568476da437610467ea1a9d7"
+      "sha256": "94433756fe10005ddd6fc55cc5c0b1e9f3c10b66a08ceac795ece6713d34e28a"
     },
     {
       "path": "android/app/src/main/res/mipmap-hdpi/ic_launcher.png",
@@ -98,23 +98,23 @@
     },
     {
       "path": "android/app/src/main/res/values-night/styles.xml",
-      "sha256": "ea763597dc1a84c8034251caee98d7753e0fbf57340ffc94677427de4b537516"
+      "sha256": "8c5bad5152f217e837519f9c15211d19f39bd45f5f67faf6dd81cb4b299e518f"
     },
     {
       "path": "android/app/src/main/res/values/styles.xml",
-      "sha256": "cca15a99b59380a548bf6a890f7ca5380ee509b1f9bbb2f5f9ec3589fa25c2f7"
+      "sha256": "937d7c82f539c72eb94fd3a3773f29b3d3fef1997213c92cb632298cedf4bda9"
     },
     {
       "path": "android/app/src/profile/AndroidManifest.xml",
-      "sha256": "b01a4541a8144c15bc617bab7eb267c99fa1476368fbbda5a12cdbf4e316a34c"
+      "sha256": "30b0832ed8b92dfbd6ae2abfa939ccf26333d37600056b1572bd4a397a18a74b"
     },
     {
       "path": "android/build.gradle.kts",
-      "sha256": "218f400e3fff31c9c986a2535dfb974560e1b4d33cc27b7c1fee96a2b7e44454"
+      "sha256": "6a26dba2cb8dfba1e74f540b0d17a89d96c1301d3c3bfda14348bed257fddcba"
     },
     {
       "path": "android/gradle.properties",
-      "sha256": "9540ff2da029aa9690d0d3d29078ce93771d04d860463e06a3a59fa14454ddfb"
+      "sha256": "45e326c25e3b1ba5e5a6ab166d54f4ffba5c9abfcec00140e42d72d126b475ef"
     },
     {
       "path": "android/gradle/wrapper/gradle-wrapper.jar",
@@ -122,19 +122,19 @@
     },
     {
       "path": "android/gradle/wrapper/gradle-wrapper.properties",
-      "sha256": "3d668f5f8e5960dcade719b50264b88b08db5adb8e46bb4199f13aa375365fad"
+      "sha256": "074c2157756014f86b71d0d8a126852a74d9833103dc4ea98fae8f093d1ee531"
     },
     {
       "path": "android/gradlew",
-      "sha256": "4ab3ff211f4bfc2d61062a4c28c7f78dd29891e51bc34ad4e64bfe99a40478ef"
+      "sha256": "ec56c02543666d92d9ac5ae7fcc48f88ce4de0deb8b7f9b39928ca46f68c1b2b"
     },
     {
       "path": "android/gradlew.bat",
-      "sha256": "c13c6e91b9a517783976de213d46398c661ea9e17651376d7301e839eaedcc62"
+      "sha256": "f4f428c5626b3d90cef3bd4e7fd3ad3ea5760442db8c09d586b5bfe031dbe5e3"
     },
     {
       "path": "android/settings.gradle.kts",
-      "sha256": "4d438e37bd80ccc48ded4892c9026994cabe8cfb9c20d2947a609248495c869b"
+      "sha256": "a9b5756048f668d4ebf355116678fd334cd5f2169b7d4518ad19b8df14d3af36"
     },
     {
       "path": "assets/agenttower-profile.png",
@@ -142,15 +142,15 @@
     },
     {
       "path": "assets/brands/LICENSE-lobe-icons.txt",
-      "sha256": "498923bf779fa940d533f4741f41e407af018369276dc5f0e3d9067a403eaeb4"
+      "sha256": "add9d7531d1b21646317a8958e38fc727506fa39d24bdecb44154d943c82753a"
     },
     {
       "path": "assets/brands/README.md",
-      "sha256": "99455a9c90fa98b485f81d9c00dcb6066bfc60ba3f8e9f7de120647633b187ee"
+      "sha256": "006f783de09ae04bc18c40df3a83da114fa6d40a4c08a229978fd5a2c1e86a92"
     },
     {
       "path": "assets/brands/aider.svg",
-      "sha256": "2f245cb1b95eb815de6f5469d5e6b9b48b8b47cdac109dde993e99d522d4681d"
+      "sha256": "916972f0989350f9811e92decbfc1dd556a8cdffc1c1939af97739fc0910fb79"
     },
     {
       "path": "assets/brands/apple.svg",
@@ -162,15 +162,15 @@
     },
     {
       "path": "assets/brands/cline.svg",
-      "sha256": "d29a7afe74dd3fb98e189b61ecfba5634223994881e608b4a1f85b37a28fc1be"
+      "sha256": "33d7160268df6707c8f4a57ab31e9642feb2bed771e1d519f810483f4c35d8ad"
     },
     {
       "path": "assets/brands/codebuddy.svg",
-      "sha256": "230fae18727c3b43e591f3f60bca41004d020a80e82d97a817880c949c91c4ec"
+      "sha256": "120caddac023465c6077268c08405a01187c2a79168cebcda58ab32e72986001"
     },
     {
       "path": "assets/brands/codex.svg",
-      "sha256": "222bffaacb6b4b96ceff792831c794ab6b9a56b245ba5f804b96a1fa0ff181e8"
+      "sha256": "4626e15d4c95eb0251585786263e7b83e10053480c9cf3b3e978a4283f771d8c"
     },
     {
       "path": "assets/brands/cursor.svg",
@@ -182,15 +182,15 @@
     },
     {
       "path": "assets/brands/gemini.svg",
-      "sha256": "2c80c042b9459ed4a610a7ca9985c6f5f66205fb3b918ab255f02304b94756ad"
+      "sha256": "65fcc3cf6b48aafe93dccfba377295d069c12ac20d14f6f180ab3ec5e40874f6"
     },
     {
       "path": "assets/brands/githubcopilot.svg",
-      "sha256": "6703499f76a1c224873660014729fa0425e7247f7cb4b394efd18d18216bb266"
+      "sha256": "95672f558e9c7de9b1bfb26b318f7e3c59722c081b217e923b4ab7b918db730a"
     },
     {
       "path": "assets/brands/kimi.svg",
-      "sha256": "5e0a514a273a6d18b4a0b4a40aec194d0ca7e25e97e04c9ade175304780e5c2a"
+      "sha256": "1dbf7e0a5f82d85bae808e8e12f359ed4342e53d4661ee2c05a8c15c134f4f07"
     },
     {
       "path": "assets/brands/linux.svg",
@@ -202,23 +202,23 @@
     },
     {
       "path": "assets/brands/qwen.svg",
-      "sha256": "2f516ab89c5c51bfb88609d3e70227f2aa14ae10f9894bb5e615ec0184c0a18f"
+      "sha256": "a753ed6e6557d79a64546a1010bcbf4f7692d4f0f9d1d4e800325740a87d394c"
     },
     {
       "path": "assets/brands/roocode.svg",
-      "sha256": "b83499800fb64257c4f2078321d293dbb6d0770947579dd8c2eaa05ce5fc364e"
+      "sha256": "fbae2eb1086e2d8d82770aa945994519512a9a48312def5dd1030492ebba2ee1"
     },
     {
       "path": "assets/brands/trae.svg",
-      "sha256": "6b7529c4b7ac5906605e91166495ee9aed32e15cb4c4cabe50b1d03d505c059c"
+      "sha256": "0e1f5e6ac3e5c3759a764377c0710f5d47d3cbaf1499990a1e7db9945daf081d"
     },
     {
       "path": "assets/brands/windows.svg",
-      "sha256": "6f61bdbf142aefb5b7440c78431d8155b18031674d9663685f166842023605cb"
+      "sha256": "1343f4b5787dc3606bc58159fe6399d0eff6b5ee29ef03b69b18b3ddeb914c8e"
     },
     {
       "path": "assets/brands/windsurf.svg",
-      "sha256": "f90a62c21e73e334342706ce3c31b0de732a802213a3bccf8f39057c71fb3db2"
+      "sha256": "1e4db33f7f4a21421e1152d0a6ca85b9c6729b91daa66483f899eacf12ecaf47"
     },
     {
       "path": "docs/RELEASE_NOTES.md",
@@ -242,63 +242,63 @@
     },
     {
       "path": "integration_test/ios_smoke_test.dart",
-      "sha256": "cc5646156a7dbe91a9e1428319008ad6f126b19d5abed6dc99b3cf542c0efbf7"
+      "sha256": "94ee26ea43cb2bf764dad3a829baac10926ae98e6f609380818d0cd14d833c2d"
     },
     {
       "path": "ios/.gitignore",
-      "sha256": "e85b4db8ba6ed14708e5f7d3c60336e5a3067ce11329b84aa8ba5d98603ee253"
+      "sha256": "37380775aeb2499662b7aca80f4ac4c95ae827c3ba2bfa179aa3e9af4812c623"
     },
     {
       "path": "ios/Flutter/AppFrameworkInfo.plist",
-      "sha256": "e51cfa76fca1ae586244b43bf97423577315d2906394c1e7768ef43b8d23e161"
+      "sha256": "da12038f9b2688a8a26160fea2609fa8fcb11421448c109f09c0f573efe7698d"
     },
     {
       "path": "ios/Flutter/Debug.xcconfig",
-      "sha256": "c0d1da54718e75f2028962b689258ecc741abf7cdaed50483aa5225264d0a7d7"
+      "sha256": "a82d7765b37116ee4821d2cd1d65942febf8032353757ffb0826eabde785b4a6"
     },
     {
       "path": "ios/Flutter/Release.xcconfig",
-      "sha256": "c0d1da54718e75f2028962b689258ecc741abf7cdaed50483aa5225264d0a7d7"
+      "sha256": "a82d7765b37116ee4821d2cd1d65942febf8032353757ffb0826eabde785b4a6"
     },
     {
       "path": "ios/Runner.xcodeproj/project.pbxproj",
-      "sha256": "8f0c15671c1c420a5426d0169645b33c20cde15f6d5337628846be95ff14601d"
+      "sha256": "7380433160e76919c4abf2da4e10ad6a72c4f9cc2af813d46eb6dd7cffd0e463"
     },
     {
       "path": "ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata",
-      "sha256": "ac28b35c2b940210bec0fff8e424b07fd0efe9112ab178a10533583f251a386c"
+      "sha256": "7f3b00b5c3fdb45242d7b87e1e5c4e25d1fa8129a16c94295ecc4e8ea2235c5f"
     },
     {
       "path": "ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist",
-      "sha256": "d557c2c32fc6258ec28981fa45dc847b76c9968beb90a2e26d13ef9c4ea45c30"
+      "sha256": "dfa0f9bb85b95ccba9c6811adadf8cb407fb5d52088e89db83ebc308ec448542"
     },
     {
       "path": "ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings",
-      "sha256": "dd64c0308ab2971c456871b990b24a008bdc3ece09833e8dbe9675e33a496e74"
+      "sha256": "11b247bc6796892d67c9a821d18604db4dd6a880981b34f38460b9866e6b247f"
     },
     {
       "path": "ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme",
-      "sha256": "a46c0d064503db8bf9f452b492c61fdf76f9febb8894005fe30b2facec21e550"
+      "sha256": "9fbce429f56243561dd437a527136c9f9ed77165e3b271b923faf236cfcd0484"
     },
     {
       "path": "ios/Runner.xcworkspace/contents.xcworkspacedata",
-      "sha256": "706a4c812f2a1e220e6785c27580020d58048e2ae4d30d1280f3c43344ce6b38"
+      "sha256": "46c3c9702ff7c5584e11c954d943cfb6e07fb26e3fbd072ddbc0f388aa352de1"
     },
     {
       "path": "ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist",
-      "sha256": "d557c2c32fc6258ec28981fa45dc847b76c9968beb90a2e26d13ef9c4ea45c30"
+      "sha256": "dfa0f9bb85b95ccba9c6811adadf8cb407fb5d52088e89db83ebc308ec448542"
     },
     {
       "path": "ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings",
-      "sha256": "dd64c0308ab2971c456871b990b24a008bdc3ece09833e8dbe9675e33a496e74"
+      "sha256": "11b247bc6796892d67c9a821d18604db4dd6a880981b34f38460b9866e6b247f"
     },
     {
       "path": "ios/Runner/AppDelegate.swift",
-      "sha256": "41f5ce9e1368a77da38397df5b9468e000655e78804f263d161d118a1d12cd52"
+      "sha256": "2edcd5581fb43e925c3c99a28cd703c16c882453d7b52bae6039070ffbbecd73"
     },
     {
       "path": "ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json",
-      "sha256": "5f8b941b774bde4496d73347c1f79cbdd786bb76fbdab9ed1f3f0cb78a0fb0d3"
+      "sha256": "3b1e214f466ffedff74baa5598ad5c4421130eea6bc8d57b8fe23435e8280ae4"
     },
     {
       "path": "ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png",
@@ -362,7 +362,7 @@
     },
     {
       "path": "ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json",
-      "sha256": "fbd112a9f3b541a1d811f71ac8e4fe68b6176687d973a5f4d99b7aa4a722e94e"
+      "sha256": "ccc7950fd5f5b82067c85f667940a9d59189151460761ece8098ca78daa19469"
     },
     {
       "path": "ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png",
@@ -378,211 +378,211 @@
     },
     {
       "path": "ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md",
-      "sha256": "853ac958e2416fe2540f6f61165283a3618b71a7ba5f85f65ac41c2158dfcd21"
+      "sha256": "a985b626c4f7546a8ba392d135e9226c3547c8e2b46895f5f2bdf40d7b14ef9f"
     },
     {
       "path": "ios/Runner/Base.lproj/LaunchScreen.storyboard",
-      "sha256": "bc3644fbb251ff1e18de25a4932c927850ae1a025be3dd1447940429633fe4b2"
+      "sha256": "857e61203b3deafb05766d8fcda898b86a7cb6f3d5e385ecc9926c4d698215e9"
     },
     {
       "path": "ios/Runner/Base.lproj/Main.storyboard",
-      "sha256": "dcea4686c02065e56217fd19fcfb73d7509b41872e7486126149d47a18559363"
+      "sha256": "fd367b6c43006d61b730f674970dd48b9f662c8f2264e52ffc1558102a2c9f2d"
     },
     {
       "path": "ios/Runner/CredentialStore.swift",
-      "sha256": "b86324f4dd1618a5808a5f3bdf64e84fbfaa278af2de53d47c11363823cab5ab"
+      "sha256": "0800d56fffb11ff9cc9afd7e307ec85c493ea680917e93532055e6c42c6e6ac5"
     },
     {
       "path": "ios/Runner/Info.plist",
-      "sha256": "d8262ec9a75ed40dc0f5bba57bf6211ae71a2e824606c7755b7365d1abe57454"
+      "sha256": "c27902dd106d73d1944ece9886a2feab1af38246eff4420bf80ff9fae7d2697e"
     },
     {
       "path": "ios/Runner/PrivacyInfo.xcprivacy",
-      "sha256": "328d2c529d970229a7f37fc067a685b9ce234fbd216810bafb650148f7fd3b85"
+      "sha256": "0ee8847ad7b2676e5a7144b17c772a3f49d4e4fbbdb7e93a3d95cfe60fdfa20a"
     },
     {
       "path": "ios/Runner/Runner-Bridging-Header.h",
-      "sha256": "efe657d8b27f7f8595a0d416bffb33fe7d93bd2869d81f7353b556c439d7a1a7"
+      "sha256": "1a8d11d01d1cc92c650c9c9ed35299240052d4683a15a719a2315ef44185e074"
     },
     {
       "path": "ios/Runner/SceneDelegate.swift",
-      "sha256": "edce811c671ca0a6ccb14753e14e16deb0d89a0adf4f1b685e362d87d8f4c366"
+      "sha256": "add68b905971dedfcc0d0b5b7118030de5925ba8c081ad9815463699e3a444ad"
     },
     {
       "path": "ios/Runner/ar.lproj/InfoPlist.strings",
-      "sha256": "d0d4caec22147513ffc40fd565ff7e71a0fc1b4eb80da6f4a4bcd68089c583c2"
+      "sha256": "fc32d96a2c9d9c2c585ae60ae61b947ced1e885f2b68561b91dde7bec12f5271"
     },
     {
       "path": "ios/Runner/de.lproj/InfoPlist.strings",
-      "sha256": "225ee116b4b02c8ca942a21eeb172bc8ae00e7e96f02bf23f010e25b8f6b2049"
+      "sha256": "2581a51a06a712aaa1f0f744c9d46ccc720deee087f740f9800965335206d1d9"
     },
     {
       "path": "ios/Runner/en.lproj/InfoPlist.strings",
-      "sha256": "7ae81d56064a61d153cdd5e99e0efba169f1be919fbe7d8356212fe977e1dba5"
+      "sha256": "a310bd276ec80b42f777f4693c8eb8e2b86163ede61cfcc238aea185bf6f98e6"
     },
     {
       "path": "ios/Runner/es.lproj/InfoPlist.strings",
-      "sha256": "0f8cad6b0acde6fe45e03e24b6f9d72c426265552cbed934e901a72da0212018"
+      "sha256": "e264fdbf742a1a88b0f0f16599692374824aef0b2604b8c63d3bb411d33558f6"
     },
     {
       "path": "ios/Runner/fr.lproj/InfoPlist.strings",
-      "sha256": "b0df65246e88a24032d16e38b315bee199ef3e1e72ef0b791669cf886dba2931"
+      "sha256": "af8225d99c59fd53dc162b5635c9033394cddac3f42ef898596aed806f04aca1"
     },
     {
       "path": "ios/Runner/hi.lproj/InfoPlist.strings",
-      "sha256": "d2b7aa3c8149e6d06eca969775494ab3f213e79b26a72ec3ae933fe379be86fb"
+      "sha256": "4439218fdda1b16de76ddd859a2dc117701f5bff7e0880826ad2b64db91a83a5"
     },
     {
       "path": "ios/Runner/id.lproj/InfoPlist.strings",
-      "sha256": "82f5ed931a0e55c36e1deab6440f287ac96ea1d6f4552d1cd394db69a97a0bec"
+      "sha256": "f16d3e3fc15f2160db8ec798c67e26658ec295d75ba11b691910f9c7d9e54014"
     },
     {
       "path": "ios/Runner/ja.lproj/InfoPlist.strings",
-      "sha256": "82a7abe2fefbbc8230485eb81827109c72fd85df01a799c07f68e8c9e618fc84"
+      "sha256": "14ade9bbb420db3be8f99b66e3af047d5c91960b9e5e76cb2394dd3b0eaeebef"
     },
     {
       "path": "ios/Runner/ko.lproj/InfoPlist.strings",
-      "sha256": "16f6519b68a65f240ce138c729405a57997f3adc8cf01ccc3ffac4a7d6160007"
+      "sha256": "fc6568a10ffac998885887b72a5cdb971de1070ac17d60f276f5828e04d7e3f5"
     },
     {
       "path": "ios/Runner/pt.lproj/InfoPlist.strings",
-      "sha256": "b66e34910018d0ee7a54c1f8ff1f20183917cdddbac48fdc3f32c1bb5935c26e"
+      "sha256": "71ab42505071c56a47e0321e2f5dae7eb31d6a4d6a40868dcda25a800e981ded"
     },
     {
       "path": "ios/Runner/ru.lproj/InfoPlist.strings",
-      "sha256": "62ff29fc1647a64655a6c93a2d95b965165ce51758b2fe2733d04c0fb91f0aad"
+      "sha256": "8ef55aca3b8d1f167271cbbc01a7fa361e125bb6ccb6244e1ec84bdcadb54082"
     },
     {
       "path": "ios/Runner/vi.lproj/InfoPlist.strings",
-      "sha256": "1b7aa48cb9184e0bce40dff7b66e1edc17208ad74fd232f62142abd644f330bf"
+      "sha256": "18862f87d97e916ca18795c2b4226df1d2480252af7e00483ab0b471d9595780"
     },
     {
       "path": "ios/Runner/zh-Hans.lproj/InfoPlist.strings",
-      "sha256": "06f38bd9a4678d7bc3ccd9318e03c7f7eedfd6e517acd0f74722094cfe0b521f"
+      "sha256": "3d8445d8a3a9c44cd79f24c8028e2cbe431768808b713e2d535fb75641848cdb"
     },
     {
       "path": "ios/Runner/zh-Hant.lproj/InfoPlist.strings",
-      "sha256": "05d94b51e4587dc4a486cbcd2eb05151d1d6dda74402ededbcd7e1e51a919d87"
+      "sha256": "463205a2c236413313edc29381944b41045815f13aa15e2c6e42efb95b55d0e9"
     },
     {
       "path": "ios/RunnerTests/RunnerTests.swift",
-      "sha256": "c0e04141287eb7f9c9f3d31cf5be8cb626a9ea71351206c9121578e8b8f480c3"
+      "sha256": "5e8f4908dacea6f29b2a790e4d38bf5fded69096063f9a27a2f21584d62b30c0"
     },
     {
       "path": "lib/app_brand_icon.dart",
-      "sha256": "41746fa975641220053f5320628622f766e38616b67e836b36cc958a8211a75b"
+      "sha256": "31591e7f7796bf7317ab91682e0c4ba97b2ed2b311188a2f540e93b6fbcc3764"
     },
     {
       "path": "lib/app_localizations.dart",
-      "sha256": "8e2106e1708a298a01203a617ea27914216eff3ee601e8df7a895af5c5373843"
+      "sha256": "18812d080af40064ca75e94586f2ed5cb7cb4122329ca36495786301fbedaf0d"
     },
     {
       "path": "lib/approval_catalog.dart",
-      "sha256": "44de073f5b636d0700ecb8637006db6d0dd6f46f4253b2191db193921853b710"
+      "sha256": "24e675e57c6205f0211be1e12dbb366be2dac5b1980f9d13a0694eb6075ad9dd"
     },
     {
       "path": "lib/chat_markdown.dart",
-      "sha256": "9c31dfe7ccb76e216657f95dde5c849436bc87e40e9293b9c9fccece33250f82"
+      "sha256": "a496de33224f8bee37427761bd9b9b87db706c26dabbc20a34581cdb1844cd26"
     },
     {
       "path": "lib/connection_store.dart",
-      "sha256": "bfdc9145d3f7ca0bb3fb7f27141bb8b0a3bc61d4585dac5e9cd7ba6ed03cfdbb"
+      "sha256": "414651a321b1e5f28986d85607859ec0c3aa5f4cb3406ef94cf4b3395783892e"
     },
     {
       "path": "lib/conversation_catalog.dart",
-      "sha256": "55001b397645a8d2936481dfcec7da028f96fcd368da33c2158d90906717ad3f"
+      "sha256": "afc79a24ca130621ed38147ff61f960ecfbb380ee543217d8a90838b2d570cbd"
     },
     {
       "path": "lib/conversation_view.dart",
-      "sha256": "805363cf0dfebb7724c0a09c5c265265ed4e2699cfb65204aba7e53fe3977f02"
+      "sha256": "41abdbec944dd82dd099234eee22ad1455b6bb9eedcdfb07892a066d77b74d36"
     },
     {
       "path": "lib/drawer_catalog.dart",
-      "sha256": "530269860cf47220e0a3f91f505baa57855ab8df219f15babc9db49ebd8abeb3"
+      "sha256": "0fb693656fc3ad231bb6d630ab584e6ca75ed2aeb8157155fe71de273a950e66"
     },
     {
       "path": "lib/external_link.dart",
-      "sha256": "ed5df83d5f3872e4e4272eb73ee8aba0f939c19362b33b9d4757c8745c8d0a06"
+      "sha256": "fd048ac9278265b6a1fe346a14b7917ed902c3d14d8c6ef76f113ab873f40a7a"
     },
     {
       "path": "lib/help_catalog.dart",
-      "sha256": "0a0d02674c05be9dc6a9791aa6fe0c21236f386f6270e8758a7758b68db14b20"
+      "sha256": "f82f5e3f4b9fd2277bb15ba30b60face9b7747db62f9501a4031be81a921a10c"
     },
     {
       "path": "lib/language_catalog.dart",
-      "sha256": "7313cc7b48fbf293434546f14e34926badeeee8774f43e6a33abf43195816add"
+      "sha256": "951965d820d8005ba238bfd7023507c92b11e4b44f4a30d5ab181a6048a32ac4"
     },
     {
       "path": "lib/main.dart",
-      "sha256": "7d814f4a9666ceb6f373a5dac2f9c5b7576ef883820587e6dc6aa41892d755a1"
+      "sha256": "9786dc043f66d9a9fcf6669a26ed7728f5120e144babaa4c43eb24f4906a0e47"
     },
     {
       "path": "lib/mini_program_pages.dart",
-      "sha256": "50b09fa802dadd6c5ee11132860dfb61b7498534db550ed3625259bfed3f77d1"
+      "sha256": "92556026974fa6b70e8dcb0528f5e1b8b716bdbd5978aea8549d7963cce203b8"
     },
     {
       "path": "lib/mobile_catalog.dart",
-      "sha256": "6107490785fa5f4172e15a5b1ee2c61620d683c35acf6c735cf6cec995490361"
+      "sha256": "5505bf928148f54835a2ef0c97399e66498c8368e323ec5e5da6b328d9620fef"
     },
     {
       "path": "lib/project_preferences.dart",
-      "sha256": "75a74e9c720490b8132d890e3a843e8be877f786fa4f00a0f7757f3b008ef530"
+      "sha256": "6d640cdd2b360312c31b035e35ff6d607214660f7c16fa23a22c338339bc1427"
     },
     {
       "path": "lib/server_error_catalog.dart",
-      "sha256": "6f079a92d45dbe839459fd4823ee1e380794c7eb009db1b35fb1356ddac89a57"
+      "sha256": "f9e5f87360b02f8da44581922222ac6eec62b2f57b16b70bbf38c43959d5beb1"
     },
     {
       "path": "lib/settings_catalog.dart",
-      "sha256": "00ca4d9297726302c0e84ab01aba0c54e5b2e417bcc3fb4d08f77915a110dd1f"
+      "sha256": "e6e78fe8f8ed3690cb1708c8e8cb41763a2061a00a618dfc3c0f3bb83fbaf07c"
     },
     {
       "path": "lib/setup_agent_icon.dart",
-      "sha256": "463db45353a4e9375ee6c5965b55cda26b2a76df451ed8e56fe3b384603cf65e"
+      "sha256": "9eb3476a8a387f1781285afeb98c6c429e4f24771eb6c145454fa332bed8e510"
     },
     {
       "path": "lib/wechat_ui.dart",
-      "sha256": "787681d5ce370f00da1e5f9066c2b700772621a3869277f118e055dbfe0572e7"
+      "sha256": "6f5fc1f46bd7a59977c31f3b5f76a52e3748bfcfeafce6bbc8951d9a076d8613"
     },
     {
       "path": "macos/.gitignore",
-      "sha256": "236a523a43625a2d63af3cd0f2ce8600a3668846f8cb278c1c7c5cbfd4aa4088"
+      "sha256": "ffec1a0bbd70547186b82ad4e49089bafab2de309b89de97c776d70debb179fa"
     },
     {
       "path": "macos/Flutter/Flutter-Debug.xcconfig",
-      "sha256": "7e9b3ee3961b7d7718b418ceaed812a5f06a4e4cec894aae712a78e159c32ab0"
+      "sha256": "62290ad8e938bf410206d8c7e131262696b58a6df110d39faf3399396ffe61b1"
     },
     {
       "path": "macos/Flutter/Flutter-Release.xcconfig",
-      "sha256": "7e9b3ee3961b7d7718b418ceaed812a5f06a4e4cec894aae712a78e159c32ab0"
+      "sha256": "62290ad8e938bf410206d8c7e131262696b58a6df110d39faf3399396ffe61b1"
     },
     {
       "path": "macos/Runner.xcodeproj/project.pbxproj",
-      "sha256": "c947da7afc0472a7ce2d53ba1ee63f18a0253e1d8b6c2d96e442657cc6ba5695"
+      "sha256": "29b9d1a12bb46fa25be43fc3e25288dc7f95637322621dbc8e4284dfb095dc14"
     },
     {
       "path": "macos/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist",
-      "sha256": "d557c2c32fc6258ec28981fa45dc847b76c9968beb90a2e26d13ef9c4ea45c30"
+      "sha256": "dfa0f9bb85b95ccba9c6811adadf8cb407fb5d52088e89db83ebc308ec448542"
     },
     {
       "path": "macos/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme",
-      "sha256": "22eafd9370ad88572445a93d219652aae8c4b10d47cd1e30c69204f64402bef3"
+      "sha256": "5079c47fe70635831661a198d1592d628f0153124a484d0da025e84ae27a8397"
     },
     {
       "path": "macos/Runner.xcworkspace/contents.xcworkspacedata",
-      "sha256": "706a4c812f2a1e220e6785c27580020d58048e2ae4d30d1280f3c43344ce6b38"
+      "sha256": "46c3c9702ff7c5584e11c954d943cfb6e07fb26e3fbd072ddbc0f388aa352de1"
     },
     {
       "path": "macos/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist",
-      "sha256": "d557c2c32fc6258ec28981fa45dc847b76c9968beb90a2e26d13ef9c4ea45c30"
+      "sha256": "dfa0f9bb85b95ccba9c6811adadf8cb407fb5d52088e89db83ebc308ec448542"
     },
     {
       "path": "macos/Runner/AppDelegate.swift",
-      "sha256": "5b9cbdcb563ad8578a99b7c283958490e4af537322e9092fe1efbb3c29ab3e1b"
+      "sha256": "ce9dbe45a57c59e85519da50a26c471615b9c8cdd85a8f4a39d2e480e62a4af4"
     },
     {
       "path": "macos/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json",
-      "sha256": "992ba63d183dfb8f8e3af38ac203d834d23c004da1417c438b4c5a3d7d1d7103"
+      "sha256": "bc6ba8105ca69651aeeb77358851590de295dca04681a1d58c0f449641c242f3"
     },
     {
       "path": "macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_1024.png",
@@ -614,107 +614,107 @@
     },
     {
       "path": "macos/Runner/Base.lproj/MainMenu.xib",
-      "sha256": "776c35481f6581f14148b90071558b25f6ce6262e771988985e9fe8d3e70a472"
+      "sha256": "be9e9ef8469d3262370e0f0b855ed163cbf9c8362c59e330b2ffe63b86fa42f4"
     },
     {
       "path": "macos/Runner/Configs/AppInfo.xcconfig",
-      "sha256": "c4f954a8cef5322c0223b6542117a2a24505a05bfed10ce9061a16d82a2f5fe5"
+      "sha256": "4692557d6e6daa708dfd86377d95cf7b244bf03a5b90b1accc0b49977fc96d7f"
     },
     {
       "path": "macos/Runner/Configs/Debug.xcconfig",
-      "sha256": "86be603022e2a385dd7884fce4cc29255676c3dda579d3d4a56c958bf1e57de0"
+      "sha256": "8067d533ef6593760baad9a9855a786a7a77470fcc3f0925ec04fe43bc1ac4b0"
     },
     {
       "path": "macos/Runner/Configs/Release.xcconfig",
-      "sha256": "d1bf3f0349aadd5c58ee9d46c0ce4ce45467127c438936e9bb481d861d296565"
+      "sha256": "7a6a4b4d973a23052fa0a0388dd261e32d311d7b66ba1bfc3b914b361808ac61"
     },
     {
       "path": "macos/Runner/Configs/Warnings.xcconfig",
-      "sha256": "aa8ded4c14068cb05f51f5446509fe56805cf1e29961ad6d5a97233bb0632bc1"
+      "sha256": "0e341a392b16ad302d12890aa3dac9257a6c10ece685437604259a85341645a3"
     },
     {
       "path": "macos/Runner/DebugProfile.entitlements",
-      "sha256": "e994a3b6f6476f1b9ffe00fece7867f4e46c135847fe8d8f970b0979bd32718a"
+      "sha256": "367ece2eeb0efa2b907c3b5265fa127dd449b05d03487acc3a93763d3df00035"
     },
     {
       "path": "macos/Runner/Info.plist",
-      "sha256": "691e395cdcd67f1d6070227ba055de3fdddaf9fb220535914bcaa7baa3aacb1f"
+      "sha256": "b186bff531a762857858c3ae25ad331858b720d1ac88320112c8fda9f6cd1d5e"
     },
     {
       "path": "macos/Runner/MainFlutterWindow.swift",
-      "sha256": "48575fed99af4c3a7fbe20cf077384de130a2b3b0bbb1f8e1599d0f17a3cfe6c"
+      "sha256": "2760aa3e0f322793981401653f6e62218172d790970bc399a71fe1ac0068d1d0"
     },
     {
       "path": "macos/Runner/Release.entitlements",
-      "sha256": "edf626b25f05a4ed1664b660055c5605cca7ba3fa5a36047c9be8e80dac3820a"
+      "sha256": "b067e189b61243cdb0a7af0f52a7b4b05903cfe857befcd0f9c688f8b61b85a9"
     },
     {
       "path": "macos/Runner/ar.lproj/InfoPlist.strings",
-      "sha256": "d0d4caec22147513ffc40fd565ff7e71a0fc1b4eb80da6f4a4bcd68089c583c2"
+      "sha256": "fc32d96a2c9d9c2c585ae60ae61b947ced1e885f2b68561b91dde7bec12f5271"
     },
     {
       "path": "macos/Runner/de.lproj/InfoPlist.strings",
-      "sha256": "225ee116b4b02c8ca942a21eeb172bc8ae00e7e96f02bf23f010e25b8f6b2049"
+      "sha256": "2581a51a06a712aaa1f0f744c9d46ccc720deee087f740f9800965335206d1d9"
     },
     {
       "path": "macos/Runner/en.lproj/InfoPlist.strings",
-      "sha256": "7ae81d56064a61d153cdd5e99e0efba169f1be919fbe7d8356212fe977e1dba5"
+      "sha256": "a310bd276ec80b42f777f4693c8eb8e2b86163ede61cfcc238aea185bf6f98e6"
     },
     {
       "path": "macos/Runner/es.lproj/InfoPlist.strings",
-      "sha256": "0f8cad6b0acde6fe45e03e24b6f9d72c426265552cbed934e901a72da0212018"
+      "sha256": "e264fdbf742a1a88b0f0f16599692374824aef0b2604b8c63d3bb411d33558f6"
     },
     {
       "path": "macos/Runner/fr.lproj/InfoPlist.strings",
-      "sha256": "b0df65246e88a24032d16e38b315bee199ef3e1e72ef0b791669cf886dba2931"
+      "sha256": "af8225d99c59fd53dc162b5635c9033394cddac3f42ef898596aed806f04aca1"
     },
     {
       "path": "macos/Runner/hi.lproj/InfoPlist.strings",
-      "sha256": "d2b7aa3c8149e6d06eca969775494ab3f213e79b26a72ec3ae933fe379be86fb"
+      "sha256": "4439218fdda1b16de76ddd859a2dc117701f5bff7e0880826ad2b64db91a83a5"
     },
     {
       "path": "macos/Runner/id.lproj/InfoPlist.strings",
-      "sha256": "82f5ed931a0e55c36e1deab6440f287ac96ea1d6f4552d1cd394db69a97a0bec"
+      "sha256": "f16d3e3fc15f2160db8ec798c67e26658ec295d75ba11b691910f9c7d9e54014"
     },
     {
       "path": "macos/Runner/ja.lproj/InfoPlist.strings",
-      "sha256": "82a7abe2fefbbc8230485eb81827109c72fd85df01a799c07f68e8c9e618fc84"
+      "sha256": "14ade9bbb420db3be8f99b66e3af047d5c91960b9e5e76cb2394dd3b0eaeebef"
     },
     {
       "path": "macos/Runner/ko.lproj/InfoPlist.strings",
-      "sha256": "16f6519b68a65f240ce138c729405a57997f3adc8cf01ccc3ffac4a7d6160007"
+      "sha256": "fc6568a10ffac998885887b72a5cdb971de1070ac17d60f276f5828e04d7e3f5"
     },
     {
       "path": "macos/Runner/pt.lproj/InfoPlist.strings",
-      "sha256": "b66e34910018d0ee7a54c1f8ff1f20183917cdddbac48fdc3f32c1bb5935c26e"
+      "sha256": "71ab42505071c56a47e0321e2f5dae7eb31d6a4d6a40868dcda25a800e981ded"
     },
     {
       "path": "macos/Runner/ru.lproj/InfoPlist.strings",
-      "sha256": "62ff29fc1647a64655a6c93a2d95b965165ce51758b2fe2733d04c0fb91f0aad"
+      "sha256": "8ef55aca3b8d1f167271cbbc01a7fa361e125bb6ccb6244e1ec84bdcadb54082"
     },
     {
       "path": "macos/Runner/vi.lproj/InfoPlist.strings",
-      "sha256": "1b7aa48cb9184e0bce40dff7b66e1edc17208ad74fd232f62142abd644f330bf"
+      "sha256": "18862f87d97e916ca18795c2b4226df1d2480252af7e00483ab0b471d9595780"
     },
     {
       "path": "macos/Runner/zh-Hans.lproj/InfoPlist.strings",
-      "sha256": "06f38bd9a4678d7bc3ccd9318e03c7f7eedfd6e517acd0f74722094cfe0b521f"
+      "sha256": "3d8445d8a3a9c44cd79f24c8028e2cbe431768808b713e2d535fb75641848cdb"
     },
     {
       "path": "macos/Runner/zh-Hant.lproj/InfoPlist.strings",
-      "sha256": "05d94b51e4587dc4a486cbcd2eb05151d1d6dda74402ededbcd7e1e51a919d87"
+      "sha256": "463205a2c236413313edc29381944b41045815f13aa15e2c6e42efb95b55d0e9"
     },
     {
       "path": "macos/RunnerTests/RunnerTests.swift",
-      "sha256": "8a0ff977c64ceac0750fffa48087988b7b4125d1b1c49019221e7fffb574423e"
+      "sha256": "6bc180bc77c7def7a21d197233e25dff42cc493ab9d294632edafc18fdf0ac44"
     },
     {
       "path": "pubspec.lock",
-      "sha256": "3cdad54af21962f32639971fcffafba519e42c72ba8f2d1d3327d3cd7817e1d7"
+      "sha256": "c06ed3202dab818cd249d8c5e2623323c145d949a6ac07aa7d554b2a3a7b3637"
     },
     {
       "path": "pubspec.yaml",
-      "sha256": "0fdcde93a75a4f0495e03af0740e980d061975ac9c05b42f3ba2012a0f2f27e1"
+      "sha256": "889f7572adf4b189473d3a226b520a6c4f1a9084f738edb4891b19eaa3f924f4"
     },
     {
       "path": "scripts/release.py",
@@ -722,103 +722,103 @@
     },
     {
       "path": "test/approval_language_test.dart",
-      "sha256": "bd788dc9a2948692dcc168dba861b4ed8ece76c5bbbf42eed12ae6d69ba28069"
+      "sha256": "1e317371ae840110e27d77ec7aef7b225bcbeb0003a8e984f1d6ae081b1c2d81"
     },
     {
       "path": "test/chat_markdown_test.dart",
-      "sha256": "a4106ce97dee4ea92f7159e5596180106b5262cbb8c2800b9d12dbdab4bc51be"
+      "sha256": "08044cd430749ab9d2379e5b79b0fb7b378c0c8512b489c7a21ec3484865b305"
     },
     {
       "path": "test/conversation_language_test.dart",
-      "sha256": "5addd44db3cbe0d2e83fbe551c3d9a68d129cc0efecd8d4c8819472324c6c49b"
+      "sha256": "45ca8887d2c02de79a6889c56845d3c2aa43cebdaad6ccc77dd06c9688fdb1f4"
     },
     {
       "path": "test/drawer_language_test.dart",
-      "sha256": "addbe6909914e7a34326f2a3994dc462a4e9a5017fa6c9fa90cb1e9414866fa7"
+      "sha256": "ab16b7169d30b9e47f2465202aff64af98be04e5e69ac471d40c7c5859ae18ca"
     },
     {
       "path": "test/help_language_test.dart",
-      "sha256": "42214708618d669bbefef3b4f6d5a6656ee74a030babf2ac77b5098ad12978cb"
+      "sha256": "ec1406039aca3572b5b5ee269964ffb953b5282ddf6c0bed07cdbdc1ff3f5a70"
     },
     {
       "path": "test/language_test.dart",
-      "sha256": "e65b60701b1641122e3281a3eb07ac9989e86e4249f06e6f7b0914412b7fce5d"
+      "sha256": "f155059a352eddd77835944fe6bf9d92d467eb4a0a9ffe7d5528a144eb6844bc"
     },
     {
       "path": "test/mobile_language_test.dart",
-      "sha256": "6f53d7f821b6ead6f93d0f4452fc2a3d5fa5fc5687ae4c7de95ed7fb680b0da8"
+      "sha256": "77eca7ce9fc79c1be2833ca105e9bac519faf79143b627e399797dd67a654b28"
     },
     {
       "path": "test/project_sections_test.dart",
-      "sha256": "4989ba23d18476cac6ae73d66b9dcffe914760e38727998b9192a1cec79a5558"
+      "sha256": "248a0b3b2df033d66fe1d04b309b8f7437454c0f66c33e71bc8abcc649b6df22"
     },
     {
       "path": "test/readme_capture_test.dart",
-      "sha256": "3a945782d0b48d791a6e05dc2e37819386b31cda6b7f84d1464f10c9d9dfd9fc"
+      "sha256": "dee90ce4afe005d18652484f57ad1da7ed5d8b11b311dee9132ab9e48b3986fb"
     },
     {
       "path": "test/setup_agent_icon_test.dart",
-      "sha256": "aee667bf9b018581f67d14843cc1cd513ca3ae5604c73983a6705aa11e718ccc"
+      "sha256": "4915da46e8972f903a2345d3e65712fd47f350fae666de30f6a20f96238d0086"
     },
     {
       "path": "test/store_test.dart",
-      "sha256": "134278c34b030bf9361b9c6adc4a0554d9c4765778f5ceaa5fb54d1a2ab42bce"
+      "sha256": "0d4f10075e3ea889c354076f93724007960d93579b81fd4dd0f9b4d5624b28fc"
     },
     {
       "path": "test/wechat_preview_test.dart",
-      "sha256": "674a7d418a7c85c992d97548e470146409ca705817100c7f33c99c165ba07bdd"
+      "sha256": "00e14e0aadccc000002a6ae8375ca1f08dbccd8aebf6e069c28464c2aad5e443"
     },
     {
       "path": "test/widget_test.dart",
-      "sha256": "6011110e28a5e341193587d5767bfab2070b7cd231a86698b128e50f44dfc733"
+      "sha256": "70b473bd95d07387b4307a0c3886c213dced5d2fe8ae51f0a5749f019d771b81"
     },
     {
       "path": "windows/.gitignore",
-      "sha256": "955e3110cb16494ee76e1cd5df47e2c212309eb94a49a123fe87f718de413cb8"
+      "sha256": "96345475f1a3c66bd32d28178fba151ab1506b35b1f7857b8f7651863093ea11"
     },
     {
       "path": "windows/CMakeLists.txt",
-      "sha256": "b2e664c281547848322bee4d71754718aca6f23494e6a083f86bc6c996891bf3"
+      "sha256": "5d29bd7c0a629d3d09981d5fe5766627abcbe8335e9efeca027003c37700381e"
     },
     {
       "path": "windows/flutter/CMakeLists.txt",
-      "sha256": "bd05e3268b2f246bcbafdb778165fe67a7bafdba04eb73599502563a67b8ae7e"
+      "sha256": "1fe418971b6f41bb35ceb3d64113a835f3f6f171ecaa707bf232492b57a588d6"
     },
     {
       "path": "windows/flutter/generated_plugin_registrant.cc",
-      "sha256": "0b1652d84e4a121df3a34005938aa45196c4828192ac8a54fbc318d265bd4c26"
+      "sha256": "82e02567f2faf5e732dc92a2fb0d01104f7ba8c48973f8cfd41a860b4fac3f3b"
     },
     {
       "path": "windows/flutter/generated_plugin_registrant.h",
-      "sha256": "bac28d0d2535578bf27db13b937aa03e7790f98619a322914624c1c4e7cdcc6b"
+      "sha256": "dbc11635d7b1ba1887adf40df5b83d634e9c3ab0bee34510c71528bb4d73602a"
     },
     {
       "path": "windows/flutter/generated_plugins.cmake",
-      "sha256": "76714014161293b0fb5fb3350c840d4410710a32f28f49e9e80737d66c24362c"
+      "sha256": "286346b0d5303dc6b41072f9582d4c52bca35255b85b27b310f858e264dfdc56"
     },
     {
       "path": "windows/runner/CMakeLists.txt",
-      "sha256": "40118dcdc9a074373219e9cd22aa76e382c4f03c7b80bcfb8dc55c6c111f32f6"
+      "sha256": "361ba9400fa19d9008090850c8a7ecb0e3590744c9a2ac2eb1e734934f7d17ff"
     },
     {
       "path": "windows/runner/Runner.rc",
-      "sha256": "e05f74217498adc842d5fe9d7a6ebed4f927ba0c2467fd1d8bd5f6b6dc5e2ca3"
+      "sha256": "e64e2071f130b2757a9e530b573ab0182497b688eb395123d86d8fe81b402451"
     },
     {
       "path": "windows/runner/flutter_window.cpp",
-      "sha256": "d477349b496e1f62b08f2737cc9d1294fe1497a2396f1451e6dc790aee949109"
+      "sha256": "2be86219c4386c1d3e265cf32ac466ba09598f1b9a29aa0ea8c9e753460adc13"
     },
     {
       "path": "windows/runner/flutter_window.h",
-      "sha256": "97d37dca94ad015f1879d6d5b1194bbcde538d9fb913068c89283e903043cad0"
+      "sha256": "363d1aa236bee1f2577ace5c36c1179627ead871f123ccfc74e56aa15d5cf2ee"
     },
     {
       "path": "windows/runner/main.cpp",
-      "sha256": "5b50500cd8b428de001d3f523b2a75c6c275dfd130c9b7f795509eea3baa6937"
+      "sha256": "fa31aca0cc32804c9b1f75b7e3767ea694cf3894db891cf4bb210f3ef081c0ad"
     },
     {
       "path": "windows/runner/resource.h",
-      "sha256": "d0e8bf7835468b4b6b1f8f0747f2e8f25c19841f2df2ac60aaa584ddae3aa7c6"
+      "sha256": "1fa98588b04561590ba1cf0521ab86a9db4a878312f21c9d5861d965ddd8d1ae"
     },
     {
       "path": "windows/runner/resources/app_icon.ico",
@@ -826,23 +826,23 @@
     },
     {
       "path": "windows/runner/runner.exe.manifest",
-      "sha256": "639a56233fcd8cbcb8bbefcd93e4680ec2664f32d9acfb3d2ec1d8726a96e090"
+      "sha256": "825d243e9fa1542619909c1b72d09b3ed7c1f3b225bb8367c125835e5dc3f8aa"
     },
     {
       "path": "windows/runner/utils.cpp",
-      "sha256": "a128b67b9f3c2579e2ecef5b0dde2c33f222a097cdfe5da2a3067c73d1485b39"
+      "sha256": "6c2c87106b4b29d534c7edcafb3b7f7b9079caa3cdafa7e56671ad2adf5a2543"
     },
     {
       "path": "windows/runner/utils.h",
-      "sha256": "832e246b6758253f89016fb0374b30791242e97ad950d27fc678b3d9feacfdc4"
+      "sha256": "95a7f7dddb832997cefa937a96f89472332277e75734a5de553610760b744b03"
     },
     {
       "path": "windows/runner/win32_window.cpp",
-      "sha256": "4e4f4dcf8e86ea6e097562cb3476039e693449bd8045367538afee579c017511"
+      "sha256": "9065f31ccf746cf8b390121f958f9e959033af864aed779597066625ed56bc36"
     },
     {
       "path": "windows/runner/win32_window.h",
-      "sha256": "d154cf89ba85f820631a9b5bedacbe64fc5815e428fe6bc5da579ce649f69841"
+      "sha256": "7dd03746b19dcf3542829b2f6e8ed40a2714ce5f2cb3b0e23f0118a2fcf62d62"
     }
   ]
 }
