@@ -6,11 +6,35 @@
     },
     {
       "path": ".github/workflows/release.yml",
-      "sha256": "be0dd5bd518772079b6da2bc2a54a68590d1560572b14660252746909ab4140d"
+      "sha256": "41155594511105a77fba2954d8fafe2686556c91a19ea52df22dce648a5c26a3"
     },
     {
       "path": ".gitignore",
       "sha256": "f203e225bdf78002b7d48da59fbecdbc2c0ed276b48f8e9c322048ff5765ac79"
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "sha256": "1751e3e4846a3cbe63af8ce9db6657c6fac82a71abf9f67d296d39ffffa3a755"
+    },
+    {
+      "path": "LICENSE",
+      "sha256": "b4b0ea5fcb21b191a249b91a5d7df50e425cac230649e179a2beb3e01644a639"
+    },
+    {
+      "path": "README.en.md",
+      "sha256": "e1bb50edf444d551828dc02e52092444d10cf89662db2b128cf82163b0528bbd"
+    },
+    {
+      "path": "README.md",
+      "sha256": "4b61797c14d58cc8028003f8c7e93c49e8e704cb7abafe6491f52a43768420a0"
+    },
+    {
+      "path": "SECURITY.md",
+      "sha256": "36bf197e7aa36080f73b72d72c9d3280c8f85d6e7dafa2a9a8c7846db2480634"
+    },
+    {
+      "path": "THIRD_PARTY.md",
+      "sha256": "fcdc8d67356434df42cfa05c809bc15a15f874ba72eb62937649ea9ba1527f60"
     },
     {
       "path": "analysis_options.yaml",
@@ -117,6 +141,14 @@
       "sha256": "cf1bea5aacbcaf5059881c11652db0555097f2b19e4deb7240b9b04ecdaa9c00"
     },
     {
+      "path": "assets/brands/LICENSE-lobe-icons.txt",
+      "sha256": "498923bf779fa940d533f4741f41e407af018369276dc5f0e3d9067a403eaeb4"
+    },
+    {
+      "path": "assets/brands/README.md",
+      "sha256": "99455a9c90fa98b485f81d9c00dcb6066bfc60ba3f8e9f7de120647633b187ee"
+    },
+    {
       "path": "assets/brands/aider.svg",
       "sha256": "2f245cb1b95eb815de6f5469d5e6b9b48b8b47cdac109dde993e99d522d4681d"
     },
@@ -161,10 +193,6 @@
       "sha256": "5e0a514a273a6d18b4a0b4a40aec194d0ca7e25e97e04c9ade175304780e5c2a"
     },
     {
-      "path": "assets/brands/LICENSE-lobe-icons.txt",
-      "sha256": "498923bf779fa940d533f4741f41e407af018369276dc5f0e3d9067a403eaeb4"
-    },
-    {
       "path": "assets/brands/linux.svg",
       "sha256": "7e55f2779ae11a83c9dad2d0414a65d8ca7867d0716ce58bfe41ed299ae1447f"
     },
@@ -175,10 +203,6 @@
     {
       "path": "assets/brands/qwen.svg",
       "sha256": "2f516ab89c5c51bfb88609d3e70227f2aa14ae10f9894bb5e615ec0184c0a18f"
-    },
-    {
-      "path": "assets/brands/README.md",
-      "sha256": "99455a9c90fa98b485f81d9c00dcb6066bfc60ba3f8e9f7de120647633b187ee"
     },
     {
       "path": "assets/brands/roocode.svg",
@@ -195,10 +219,6 @@
     {
       "path": "assets/brands/windsurf.svg",
       "sha256": "f90a62c21e73e334342706ce3c31b0de732a802213a3bccf8f39057c71fb3db2"
-    },
-    {
-      "path": "CONTRIBUTING.md",
-      "sha256": "1751e3e4846a3cbe63af8ce9db6657c6fac82a71abf9f67d296d39ffffa3a755"
     },
     {
       "path": "docs/RELEASE_NOTES.md",
@@ -275,10 +295,6 @@
     {
       "path": "ios/Runner/AppDelegate.swift",
       "sha256": "41f5ce9e1368a77da38397df5b9468e000655e78804f263d161d118a1d12cd52"
-    },
-    {
-      "path": "ios/Runner/ar.lproj/InfoPlist.strings",
-      "sha256": "d0d4caec22147513ffc40fd565ff7e71a0fc1b4eb80da6f4a4bcd68089c583c2"
     },
     {
       "path": "ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json",
@@ -377,6 +393,26 @@
       "sha256": "b86324f4dd1618a5808a5f3bdf64e84fbfaa278af2de53d47c11363823cab5ab"
     },
     {
+      "path": "ios/Runner/Info.plist",
+      "sha256": "d8262ec9a75ed40dc0f5bba57bf6211ae71a2e824606c7755b7365d1abe57454"
+    },
+    {
+      "path": "ios/Runner/PrivacyInfo.xcprivacy",
+      "sha256": "328d2c529d970229a7f37fc067a685b9ce234fbd216810bafb650148f7fd3b85"
+    },
+    {
+      "path": "ios/Runner/Runner-Bridging-Header.h",
+      "sha256": "efe657d8b27f7f8595a0d416bffb33fe7d93bd2869d81f7353b556c439d7a1a7"
+    },
+    {
+      "path": "ios/Runner/SceneDelegate.swift",
+      "sha256": "edce811c671ca0a6ccb14753e14e16deb0d89a0adf4f1b685e362d87d8f4c366"
+    },
+    {
+      "path": "ios/Runner/ar.lproj/InfoPlist.strings",
+      "sha256": "d0d4caec22147513ffc40fd565ff7e71a0fc1b4eb80da6f4a4bcd68089c583c2"
+    },
+    {
       "path": "ios/Runner/de.lproj/InfoPlist.strings",
       "sha256": "225ee116b4b02c8ca942a21eeb172bc8ae00e7e96f02bf23f010e25b8f6b2049"
     },
@@ -401,10 +437,6 @@
       "sha256": "82f5ed931a0e55c36e1deab6440f287ac96ea1d6f4552d1cd394db69a97a0bec"
     },
     {
-      "path": "ios/Runner/Info.plist",
-      "sha256": "d8262ec9a75ed40dc0f5bba57bf6211ae71a2e824606c7755b7365d1abe57454"
-    },
-    {
       "path": "ios/Runner/ja.lproj/InfoPlist.strings",
       "sha256": "82a7abe2fefbbc8230485eb81827109c72fd85df01a799c07f68e8c9e618fc84"
     },
@@ -413,24 +445,12 @@
       "sha256": "16f6519b68a65f240ce138c729405a57997f3adc8cf01ccc3ffac4a7d6160007"
     },
     {
-      "path": "ios/Runner/PrivacyInfo.xcprivacy",
-      "sha256": "328d2c529d970229a7f37fc067a685b9ce234fbd216810bafb650148f7fd3b85"
-    },
-    {
       "path": "ios/Runner/pt.lproj/InfoPlist.strings",
       "sha256": "b66e34910018d0ee7a54c1f8ff1f20183917cdddbac48fdc3f32c1bb5935c26e"
     },
     {
       "path": "ios/Runner/ru.lproj/InfoPlist.strings",
       "sha256": "62ff29fc1647a64655a6c93a2d95b965165ce51758b2fe2733d04c0fb91f0aad"
-    },
-    {
-      "path": "ios/Runner/Runner-Bridging-Header.h",
-      "sha256": "efe657d8b27f7f8595a0d416bffb33fe7d93bd2869d81f7353b556c439d7a1a7"
-    },
-    {
-      "path": "ios/Runner/SceneDelegate.swift",
-      "sha256": "edce811c671ca0a6ccb14753e14e16deb0d89a0adf4f1b685e362d87d8f4c366"
     },
     {
       "path": "ios/Runner/vi.lproj/InfoPlist.strings",
@@ -525,10 +545,6 @@
       "sha256": "787681d5ce370f00da1e5f9066c2b700772621a3869277f118e055dbfe0572e7"
     },
     {
-      "path": "LICENSE",
-      "sha256": "b4b0ea5fcb21b191a249b91a5d7df50e425cac230649e179a2beb3e01644a639"
-    },
-    {
       "path": "macos/.gitignore",
       "sha256": "236a523a43625a2d63af3cd0f2ce8600a3668846f8cb278c1c7c5cbfd4aa4088"
     },
@@ -565,8 +581,8 @@
       "sha256": "5b9cbdcb563ad8578a99b7c283958490e4af537322e9092fe1efbb3c29ab3e1b"
     },
     {
-      "path": "macos/Runner/ar.lproj/InfoPlist.strings",
-      "sha256": "d0d4caec22147513ffc40fd565ff7e71a0fc1b4eb80da6f4a4bcd68089c583c2"
+      "path": "macos/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json",
+      "sha256": "992ba63d183dfb8f8e3af38ac203d834d23c004da1417c438b4c5a3d7d1d7103"
     },
     {
       "path": "macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_1024.png",
@@ -597,10 +613,6 @@
       "sha256": "5f6334d9670ab9b8c4cf5eafd94a096e8d7385727c5fa103e1e92f532727b077"
     },
     {
-      "path": "macos/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json",
-      "sha256": "992ba63d183dfb8f8e3af38ac203d834d23c004da1417c438b4c5a3d7d1d7103"
-    },
-    {
       "path": "macos/Runner/Base.lproj/MainMenu.xib",
       "sha256": "776c35481f6581f14148b90071558b25f6ce6262e771988985e9fe8d3e70a472"
     },
@@ -621,12 +633,28 @@
       "sha256": "aa8ded4c14068cb05f51f5446509fe56805cf1e29961ad6d5a97233bb0632bc1"
     },
     {
-      "path": "macos/Runner/de.lproj/InfoPlist.strings",
-      "sha256": "225ee116b4b02c8ca942a21eeb172bc8ae00e7e96f02bf23f010e25b8f6b2049"
-    },
-    {
       "path": "macos/Runner/DebugProfile.entitlements",
       "sha256": "e994a3b6f6476f1b9ffe00fece7867f4e46c135847fe8d8f970b0979bd32718a"
+    },
+    {
+      "path": "macos/Runner/Info.plist",
+      "sha256": "691e395cdcd67f1d6070227ba055de3fdddaf9fb220535914bcaa7baa3aacb1f"
+    },
+    {
+      "path": "macos/Runner/MainFlutterWindow.swift",
+      "sha256": "48575fed99af4c3a7fbe20cf077384de130a2b3b0bbb1f8e1599d0f17a3cfe6c"
+    },
+    {
+      "path": "macos/Runner/Release.entitlements",
+      "sha256": "edf626b25f05a4ed1664b660055c5605cca7ba3fa5a36047c9be8e80dac3820a"
+    },
+    {
+      "path": "macos/Runner/ar.lproj/InfoPlist.strings",
+      "sha256": "d0d4caec22147513ffc40fd565ff7e71a0fc1b4eb80da6f4a4bcd68089c583c2"
+    },
+    {
+      "path": "macos/Runner/de.lproj/InfoPlist.strings",
+      "sha256": "225ee116b4b02c8ca942a21eeb172bc8ae00e7e96f02bf23f010e25b8f6b2049"
     },
     {
       "path": "macos/Runner/en.lproj/InfoPlist.strings",
@@ -649,10 +677,6 @@
       "sha256": "82f5ed931a0e55c36e1deab6440f287ac96ea1d6f4552d1cd394db69a97a0bec"
     },
     {
-      "path": "macos/Runner/Info.plist",
-      "sha256": "691e395cdcd67f1d6070227ba055de3fdddaf9fb220535914bcaa7baa3aacb1f"
-    },
-    {
       "path": "macos/Runner/ja.lproj/InfoPlist.strings",
       "sha256": "82a7abe2fefbbc8230485eb81827109c72fd85df01a799c07f68e8c9e618fc84"
     },
@@ -661,16 +685,8 @@
       "sha256": "16f6519b68a65f240ce138c729405a57997f3adc8cf01ccc3ffac4a7d6160007"
     },
     {
-      "path": "macos/Runner/MainFlutterWindow.swift",
-      "sha256": "48575fed99af4c3a7fbe20cf077384de130a2b3b0bbb1f8e1599d0f17a3cfe6c"
-    },
-    {
       "path": "macos/Runner/pt.lproj/InfoPlist.strings",
       "sha256": "b66e34910018d0ee7a54c1f8ff1f20183917cdddbac48fdc3f32c1bb5935c26e"
-    },
-    {
-      "path": "macos/Runner/Release.entitlements",
-      "sha256": "edf626b25f05a4ed1664b660055c5605cca7ba3fa5a36047c9be8e80dac3820a"
     },
     {
       "path": "macos/Runner/ru.lproj/InfoPlist.strings",
@@ -701,20 +717,8 @@
       "sha256": "0fdcde93a75a4f0495e03af0740e980d061975ac9c05b42f3ba2012a0f2f27e1"
     },
     {
-      "path": "README.en.md",
-      "sha256": "e1bb50edf444d551828dc02e52092444d10cf89662db2b128cf82163b0528bbd"
-    },
-    {
-      "path": "README.md",
-      "sha256": "4b61797c14d58cc8028003f8c7e93c49e8e704cb7abafe6491f52a43768420a0"
-    },
-    {
       "path": "scripts/release.py",
       "sha256": "f2fa9fbfa014d353a4c6c6f16eb322a6104150c4ab4dd392640919d7b0387c61"
-    },
-    {
-      "path": "SECURITY.md",
-      "sha256": "36bf197e7aa36080f73b72d72c9d3280c8f85d6e7dafa2a9a8c7846db2480634"
     },
     {
       "path": "test/approval_language_test.dart",
@@ -750,7 +754,7 @@
     },
     {
       "path": "test/readme_capture_test.dart",
-      "sha256": "735a6656949ae6aed133be2e826ba1b2181b1c8e4bf64cc2012310b852c74574"
+      "sha256": "3a945782d0b48d791a6e05dc2e37819386b31cda6b7f84d1464f10c9d9dfd9fc"
     },
     {
       "path": "test/setup_agent_icon_test.dart",
@@ -767,10 +771,6 @@
     {
       "path": "test/widget_test.dart",
       "sha256": "6011110e28a5e341193587d5767bfab2070b7cd231a86698b128e50f44dfc733"
-    },
-    {
-      "path": "THIRD_PARTY.md",
-      "sha256": "fcdc8d67356434df42cfa05c809bc15a15f874ba72eb62937649ea9ba1527f60"
     },
     {
       "path": "windows/.gitignore",
@@ -801,6 +801,10 @@
       "sha256": "40118dcdc9a074373219e9cd22aa76e382c4f03c7b80bcfb8dc55c6c111f32f6"
     },
     {
+      "path": "windows/runner/Runner.rc",
+      "sha256": "e05f74217498adc842d5fe9d7a6ebed4f927ba0c2467fd1d8bd5f6b6dc5e2ca3"
+    },
+    {
       "path": "windows/runner/flutter_window.cpp",
       "sha256": "d477349b496e1f62b08f2737cc9d1294fe1497a2396f1451e6dc790aee949109"
     },
@@ -823,10 +827,6 @@
     {
       "path": "windows/runner/runner.exe.manifest",
       "sha256": "639a56233fcd8cbcb8bbefcd93e4680ec2664f32d9acfb3d2ec1d8726a96e090"
-    },
-    {
-      "path": "windows/runner/Runner.rc",
-      "sha256": "e05f74217498adc842d5fe9d7a6ebed4f927ba0c2467fd1d8bd5f6b6dc5e2ca3"
     },
     {
       "path": "windows/runner/utils.cpp",

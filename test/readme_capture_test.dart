@@ -40,7 +40,9 @@ void main() {
           File(
             Platform.isWindows
                 ? '${Platform.environment['WINDIR'] ?? 'C:/Windows'}/Fonts/msyh.ttc'
-                : '/System/Library/Fonts/Hiragino Sans GB.ttc',
+                : Platform.isMacOS
+                    ? '/System/Library/Fonts/Hiragino Sans GB.ttc'
+                    : '/usr/share/fonts/opentype/noto/NotoSansCJK-Regular.ttc',
           ).readAsBytesSync(),
         ),
       ),
@@ -58,7 +60,9 @@ void main() {
           '${sdk.path}/bin/cache/artifacts/material_fonts/MaterialIcons-Regular.otf',
       'monospace': Platform.isWindows
           ? '${Platform.environment['WINDIR'] ?? 'C:/Windows'}/Fonts/consola.ttf'
-          : '/System/Library/Fonts/Menlo.ttc',
+          : Platform.isMacOS
+              ? '/System/Library/Fonts/Menlo.ttc'
+              : '/usr/share/fonts/truetype/dejavu/DejaVuSansMono.ttf',
     }.entries) {
       final loader = FontLoader(entry.key);
       loader.addFont(
