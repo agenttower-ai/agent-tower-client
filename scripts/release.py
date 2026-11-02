@@ -82,7 +82,7 @@ def package(target):
         if len(apps) != 1:
             raise RuntimeError("Expected exactly one macOS application")
         binary = apps[0] / "Contents/MacOS/AgentTower"
-        run("lipo", "-verify_arch", "arm64", "x86_64", str(binary))
+        run("lipo", str(binary), "-verify_arch", "arm64", "x86_64")
         run("codesign", "--verify", "--deep", "--strict", str(apps[0]))
         run("ditto", str(apps[0]), str(stage / apps[0].name))
         archive = output / f"AgentTower-Client-{tag}-{label}.zip"

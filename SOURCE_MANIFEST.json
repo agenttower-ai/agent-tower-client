@@ -718,7 +718,7 @@
     },
     {
       "path": "scripts/release.py",
-      "sha256": "f2fa9fbfa014d353a4c6c6f16eb322a6104150c4ab4dd392640919d7b0387c61"
+      "sha256": "35f92dc3182923150aa1b4a3d499ddc238b88a8e9655c76f4dfa46c1cda01a5e"
     },
     {
       "path": "test/approval_language_test.dart",
