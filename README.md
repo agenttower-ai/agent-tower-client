@@ -6,6 +6,10 @@
 
 Agent Tower Client 是使用 Flutter 原生渲染的控制客户端，不使用 WebView。通过 AgentTower Server 连接运行在电脑上的 Connector，把 AI 编程 Agent 的进展和受支持的远程操作带到手机。
 
+## 下载与自动发版
+
+预编译安装包见 [GitHub Releases](https://github.com/agenttower-ai/agent-tower-client/releases)。平台支持、签名和自动发版步骤见 [发行说明](docs/RELEASING.md)。首次使用请配置自己的中转服务器。
+
 ## 关联项目
 
 | 项目 | 负责什么 |

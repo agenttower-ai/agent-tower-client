@@ -6,6 +6,10 @@
 
 Agent Tower Client is rendered natively with Flutter, without a WebView. It connects through AgentTower Server to Connector on your computers, bringing agent activity and supported remote operations to your phone.
 
+## Downloads and releases
+
+Download prebuilt packages from [GitHub Releases](https://github.com/agenttower-ai/agent-tower-client/releases). See [release instructions](docs/RELEASING.md) for automated builds, platform support and signing. Configure your own relay server before use.
+
 ## Related projects
 
 | Project | Role |
